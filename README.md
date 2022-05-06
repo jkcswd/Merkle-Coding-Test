@@ -1,1 +1,1 @@
-echo # Merkle-Coding-Test
+# Merkle-Coding-Test
