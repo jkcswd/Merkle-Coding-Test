@@ -1,0 +1,1 @@
+echo # Merkle-Coding-Test
